@@ -2,7 +2,7 @@ package replits;
 
 public class replit182 {
     public static void main(String[] args) {
-        System.out.println(clean("one two three", "two"));
+        System.out.println(clean("one two r", "two"));
 
 
     }
